@@ -73,7 +73,9 @@ const TransactionManagement = () => {
           <div className="user-info">
             <h5>User Info</h5>
             <p>Name : {name}</p>
-            <p>Address : {`${address}, ${city},${county}, ${pincode}`}</p>
+            <p>
+              Address : {`${address}, ${city},${state}${county}, ${pincode}`}
+            </p>
           </div>
           <div className="user-info">
             <h5>Amount Info</h5>
