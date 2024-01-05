@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
-
+Netlify Link:
+Here is the link to visit:https://ecommercebyyuvj.netlify.app/
+Vercel Link:
 Here is the link to visit:https://ecommercebyyuvj.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
