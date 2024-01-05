@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Here is the link to visit:https://ecommerce-dashboard-8b2q.vercel.app/admin/dashboard
+Here is the link to visit:https://ecommercebyyuvj.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
